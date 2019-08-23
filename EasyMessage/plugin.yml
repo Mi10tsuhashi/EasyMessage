@@ -1,0 +1,9 @@
+name:  EasyMessage
+main:  main.EasyMessage
+version:  0.01
+api-version: 1.14
+author:  Mituhashi
+commands:
+   send:
+       description: This can work only in a COMMAND_BLOCK.
+       usage: send [message here]
